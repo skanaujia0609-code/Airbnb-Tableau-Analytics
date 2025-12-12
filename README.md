@@ -9,6 +9,10 @@ Host ratings and performance metrics,
 Popular neighborhoods,
 Comparative insights using interactive filters
 
+#Dataset Link
+Excel dataset:
+https://docs.google.com/spreadsheets/d/1buO094aMD6OlBL_JSRfWDO2V_Roegme8/edit?gid=2139372833#gid=2139372833
+
  #Dashboard Link
 View the live, interactive dashboard here:
 Tableau Public Dashboard:
