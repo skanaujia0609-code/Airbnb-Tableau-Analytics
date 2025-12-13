@@ -29,3 +29,6 @@ Pricing trends differ significantly across neighborhoods.
 Entire homes/apartments show higher average prices than private rooms.
 Certain hosts dominate listings in specific regions.
 Customer ratings impact visibility and occupancy.
+
+## Output of the dashboard
+(https://github.com/skanaujia0609-code/Airbnb-Tableau-Analytics/blob/main/Data/Airbnd_Dashboard.PNG)
